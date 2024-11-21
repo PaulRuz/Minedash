@@ -1,0 +1,45 @@
+{
+    "name": "PlayerControls",
+    "maps": [
+        {
+            "name": "Gameplay",
+            "id": "e0862b78-f5ef-4215-ae41-d81e1c870b7c",
+            "actions": [
+                {
+                    "name": "Move",
+                    "type": "Value",
+                    "id": "63f987d6-bb45-493b-b0a2-61dbfbaa0c25",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "4e518820-c5d3-440d-ad00-713524e56b5d",
+                    "path": "<Touchscreen>/primaryTouch/delta",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "4fc7062c-eff4-4984-9f19-b3668258287a",
+                    "path": "<Mouse>/delta",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

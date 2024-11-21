@@ -1,0 +1,312 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.27f1 (27c554a2199c) revision 2606420'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit CoreSingleLanguage' Language: 'ru' Physical Memory: 12130 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+E:\Games\Unity\6000.0.27f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/Unity Projects/Mine Sniper 1.1
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59366
+-job-worker-count
+3
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+Successfully changed project path to: E:/Unity Projects/Mine Sniper 1.1
+E:/Unity Projects/Mine Sniper 1.1
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [4192]  Target information:
+
+Player connection [4192]  * "[IP] 192.168.0.107 [Port] 0 [Flags] 2 [Guid] 1736505009 [EditorId] 1736505009 [Version] 1048832 [Id] WindowsEditor(7,RUZWAVE) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [4192] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [4192] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 3
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 1.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.27f1 (27c554a2199c)
+[Subsystems] Discovering subsystems at path E:/Games/Unity/6000.0.27f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Unity Projects/Mine Sniper 1.1/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   NVIDIA
+    VRAM:     4004 MB
+    Driver:   32.0.15.6614
+Shader 'TextMeshPro/Distance Field': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+Shader 'TextMeshPro/Distance Field SSD': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+Shader 'TextMeshPro/Distance Field Overlay': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+Initialize mono
+Mono path[0] = 'E:/Games/Unity/6000.0.27f1/Editor/Data/Managed'
+Mono path[1] = 'E:/Games/Unity/6000.0.27f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'E:/Games/Unity/6000.0.27f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56200
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Games/Unity/6000.0.27f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: E:/Games/Unity/6000.0.27f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004136 seconds.
+- Loaded All Assemblies, in  0.560 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.492 seconds
+Domain Reload Profiling: 1052ms
+	BeginReloadAssembly (185ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (51ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (63ms)
+	LoadAllAssembliesAndSetupDomain (243ms)
+		LoadAssemblies (183ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (239ms)
+			TypeCache.Refresh (237ms)
+				TypeCache.ScanAssembly (219ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (493ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (440ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (36ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (9ms)
+			ProcessInitializeOnLoadAttributes (281ms)
+			ProcessInitializeOnLoadMethodAttributes (107ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.034 seconds
+Refreshing native plugins compatible for Editor in 1.85 ms, found 0 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.733 seconds
+Domain Reload Profiling: 1767ms
+	BeginReloadAssembly (518ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (10ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (37ms)
+	RebuildCommonClasses (50ms)
+	RebuildNativeTypeToScriptingClass (20ms)
+	initialDomainReloadingComplete (48ms)
+	LoadAllAssembliesAndSetupDomain (397ms)
+		LoadAssemblies (442ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (86ms)
+			TypeCache.Refresh (62ms)
+				TypeCache.ScanAssembly (50ms)
+			BuildScriptInfoCaches (18ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (734ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (463ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (26ms)
+			ProcessInitializeOnLoadAttributes (392ms)
+			ProcessInitializeOnLoadMethodAttributes (33ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Shader 'TextMeshPro/Distance Field Overlay': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+Shader 'TextMeshPro/Distance Field SSD': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+Shader 'TextMeshPro/Distance Field': fallback shader 'TextMeshPro/Mobile/Distance Field' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 1.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 1854 unused Assets / (0.6 MB). Loaded Objects now: 2466.
+Memory consumption went from 97.1 MB to 96.5 MB.
+Total: 7.512100 ms (FindLiveObjects: 0.406100 ms CreateObjectMapping: 0.255600 ms MarkObjects: 6.036000 ms  DeleteObjects: 0.811500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 625729.661120 seconds.
+  path: Assets/_Project/Models/paperTexture.jpg
+  artifactKey: Guid(2d8655550d2597b428f321a5ed29f738) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Models/paperTexture.jpg using Guid(2d8655550d2597b428f321a5ed29f738) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'becf10269ce5844274d9e38c5f078a8e') in 0.1081009 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.718305 seconds.
+  path: Assets/_Project/Models/VertexColorShader.shader
+  artifactKey: Guid(36204ca54c3151445831e1cca6fc3a66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Models/VertexColorShader.shader using Guid(36204ca54c3151445831e1cca6fc3a66) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bf13230fbc27339926ee98c597ec98e4') in 0.0015437 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.750383 seconds.
+  path: Assets/_Project/Models/Meshes/UI
+  artifactKey: Guid(856c88e7a63ea344386331a305d4d6c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Models/Meshes/UI using Guid(856c88e7a63ea344386331a305d4d6c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '25266be9c5c2f68a1abffe0198291b27') in 0.0007645 seconds
+Number of updated asset objects reloaded before import = 1Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.728534 seconds.
+  path: Assets/_Project/Models/Meshes/UI/UI_BGmainMenu.mesh
+  artifactKey: Guid(b8c21b890351f9e48bee3064a2a2b229) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Models/Meshes/UI/UI_BGmainMenu.mesh using Guid(b8c21b890351f9e48bee3064a2a2b229) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '49ce337725b57cc41480ef19d9a20003') in 0.0569067 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.934559 seconds.
+  path: Assets/_Project/Models/Meshes/UI_btn_shootON.mesh
+  artifactKey: Guid(36934d93e1373d245a75d6e084fc3de4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Models/Meshes/UI_btn_shootON.mesh using Guid(36934d93e1373d245a75d6e084fc3de4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7d78b9f2fc1b05188056a7a1fc559d75') in 0.0143409 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.091074 seconds.
+  path: Assets/_Project/Models/Meshes/UI_btn_shootOFF.mesh
+  artifactKey: Guid(2343a814a72f33d4ba6c9680a55cd990) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Models/Meshes/UI_btn_shootOFF.mesh using Guid(2343a814a72f33d4ba6c9680a55cd990) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dcf06dc7e2a479fef7fb9be6238debe7') in 0.0146021 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.622648 seconds.
+  path: Assets/_Project/Models/Meshes/UI_btn_shoot_outline.mesh
+  artifactKey: Guid(977e2bf5233384d4194556ecae6457c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Models/Meshes/UI_btn_shoot_outline.mesh using Guid(977e2bf5233384d4194556ecae6457c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ed299f4bede43d4ec896f5b31b488d8b') in 0.0132993 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.320199 seconds.
+  path: Assets/_Project/Models/Meshes/Enemy 1.mesh
+  artifactKey: Guid(937de189ce2d39f4b906cf404b00d32d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Models/Meshes/Enemy 1.mesh using Guid(937de189ce2d39f4b906cf404b00d32d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '86b5f5e13f25124f65ac4643e2674d54') in 0.0408803 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.389787 seconds.
+  path: Assets/_Project/Models/Meshes/UI_Border.mesh
+  artifactKey: Guid(dbdc858538ca8bd40b19d31ad5657404) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Models/Meshes/UI_Border.mesh using Guid(dbdc858538ca8bd40b19d31ad5657404) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1cda7c13f43d3eaf1eedf11b71dd839e') in 0.0141245 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.225225 seconds.
+  path: Assets/_Project/Models/Meshes/UI_SwitchBG.mesh
+  artifactKey: Guid(085ec07d6a3def54f9ea075dd1679012) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Models/Meshes/UI_SwitchBG.mesh using Guid(085ec07d6a3def54f9ea075dd1679012) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b7ad17a34844cf710ce9c5314c203ad8') in 0.0185803 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.765127 seconds.
+  path: Assets/_Project/Models/Meshes/UI_Pointer.mesh
+  artifactKey: Guid(16f229f53fe3c2e4fac32438bf2d1a83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Models/Meshes/UI_Pointer.mesh using Guid(16f229f53fe3c2e4fac32438bf2d1a83) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fc97d1af2c958b4ddbe5828975f63a78') in 0.0125078 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.519445 seconds.
+  path: Assets/_Project/Models/Meshes/UI_Pointer_fill.mesh
+  artifactKey: Guid(ba08979dae464c74bb867a17ed11b64f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Models/Meshes/UI_Pointer_fill.mesh using Guid(ba08979dae464c74bb867a17ed11b64f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b4dea8c89bd0c3b96424c46010e0d6ca') in 0.0143045 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.967398 seconds.
+  path: Assets/_Project/Prefabs/bullet.prefab
+  artifactKey: Guid(b3b25c8db7497c5438df3b29d29c349d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Prefabs/bullet.prefab using Guid(b3b25c8db7497c5438df3b29d29c349d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '254b7598f1692bf620ba2b508d69ef50') in 0.0405974 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 23
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.855737 seconds.
+  path: Assets/_Project/Prefabs/PlayerBullet.prefab
+  artifactKey: Guid(b3b25c8db7497c5438df3b29d29c349d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Prefabs/PlayerBullet.prefab using Guid(b3b25c8db7497c5438df3b29d29c349d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e4670e55fd47761e7d1a6cc0d9d5ef16') in 0.0078877 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 23
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.261119 seconds.
+  path: Assets/_Project/Prefabs/CustomButton.prefab
+  artifactKey: Guid(39bf61364a50d0c4f8aebad14525012e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Project/Prefabs/CustomButton.prefab using Guid(39bf61364a50d0c4f8aebad14525012e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '04b986c39a7c60f9ffa1cada14da5d7e') in 0.0025836 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+

@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity Projects\\Mine Sniper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{267467E6-EF2A-F0C8-4383-765976E3B08C}|Assembly-CSharp.csproj|e:\\unity projects\\mine sniper\\assets\\_project\\_scripts\\particlesystem\\particlepoolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267467E6-EF2A-F0C8-4383-765976E3B08C}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\_scripts\\particlesystem\\particlepoolmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267467E6-EF2A-F0C8-4383-765976E3B08C}|Assembly-CSharp.csproj|e:\\unity projects\\mine sniper\\assets\\_project\\_scripts\\particlesystem\\pointparticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267467E6-EF2A-F0C8-4383-765976E3B08C}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\_scripts\\particlesystem\\pointparticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267467E6-EF2A-F0C8-4383-765976E3B08C}|Assembly-CSharp.csproj|e:\\unity projects\\mine sniper\\assets\\_project\\_scripts\\event systems\\gamedataevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267467E6-EF2A-F0C8-4383-765976E3B08C}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\_scripts\\event systems\\gamedataevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267467E6-EF2A-F0C8-4383-765976E3B08C}|Assembly-CSharp.csproj|E:\\Unity Projects\\Mine Sniper\\assets\\_project\\_scripts\\core systems\\gamebootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{267467E6-EF2A-F0C8-4383-765976E3B08C}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\_scripts\\core systems\\gamebootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 162,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameBootstrap.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Mine Sniper\\Assets\\_Project\\_Scripts\\CORE SYSTEMS\\GameBootstrap.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\_Scripts\\CORE SYSTEMS\\GameBootstrap.cs",
+              "ToolTip": "E:\\Unity Projects\\Mine Sniper\\Assets\\_Project\\_Scripts\\CORE SYSTEMS\\GameBootstrap.cs",
+              "RelativeToolTip": "Assets\\_Project\\_Scripts\\CORE SYSTEMS\\GameBootstrap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:37:16.134Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParticlePoolManager.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Mine Sniper\\Assets\\_Project\\_Scripts\\ParticleSystem\\ParticlePoolManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\_Scripts\\ParticleSystem\\ParticlePoolManager.cs",
+              "ToolTip": "E:\\Unity Projects\\Mine Sniper\\Assets\\_Project\\_Scripts\\ParticleSystem\\ParticlePoolManager.cs",
+              "RelativeToolTip": "Assets\\_Project\\_Scripts\\ParticleSystem\\ParticlePoolManager.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAA5wEkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:43:53.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 242,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameDataEvent.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Mine Sniper\\Assets\\_Project\\_Scripts\\EVENT Systems\\GameDataEvent.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\_Scripts\\EVENT Systems\\GameDataEvent.cs",
+              "ToolTip": "E:\\Unity Projects\\Mine Sniper\\Assets\\_Project\\_Scripts\\EVENT Systems\\GameDataEvent.cs",
+              "RelativeToolTip": "Assets\\_Project\\_Scripts\\EVENT Systems\\GameDataEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:03:33.739Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PointParticle.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Mine Sniper\\Assets\\_Project\\_Scripts\\ParticleSystem\\PointParticle.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\_Scripts\\ParticleSystem\\PointParticle.cs",
+              "ToolTip": "E:\\Unity Projects\\Mine Sniper\\Assets\\_Project\\_Scripts\\ParticleSystem\\PointParticle.cs",
+              "RelativeToolTip": "Assets\\_Project\\_Scripts\\ParticleSystem\\PointParticle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T15:44:51.27Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

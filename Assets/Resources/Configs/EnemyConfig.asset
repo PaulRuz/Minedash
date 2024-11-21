@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7d56719a194e86489cf3907e4c3d723, type: 3}
+  m_Name: EnemyConfig
+  m_EditorClassIdentifier: 
+  items:
+  - ID: 1
+    MinSpawnTime: 1.6
+    MaxSpawnTime: 2
+    ChanceSpawnDown: 50
+    ChanceSpawnMiddle: 50
+    ChanceSpawnUp: 0
+  - ID: 2
+    MinSpawnTime: 0.8
+    MaxSpawnTime: 1.2
+    ChanceSpawnDown: 50
+    ChanceSpawnMiddle: 40
+    ChanceSpawnUp: 10
+  - ID: 3
+    MinSpawnTime: 0.6
+    MaxSpawnTime: 1
+    ChanceSpawnDown: 40
+    ChanceSpawnMiddle: 40
+    ChanceSpawnUp: 20
+  - ID: 4
+    MinSpawnTime: 0.8
+    MaxSpawnTime: 1.3
+    ChanceSpawnDown: 40
+    ChanceSpawnMiddle: 40
+    ChanceSpawnUp: 20
+  - ID: 5
+    MinSpawnTime: 0.7
+    MaxSpawnTime: 1.2
+    ChanceSpawnDown: 30
+    ChanceSpawnMiddle: 40
+    ChanceSpawnUp: 30
+  - ID: 6
+    MinSpawnTime: 0.7
+    MaxSpawnTime: 1.2
+    ChanceSpawnDown: 30
+    ChanceSpawnMiddle: 40
+    ChanceSpawnUp: 30
+  - ID: 7
+    MinSpawnTime: 0.5
+    MaxSpawnTime: 1
+    ChanceSpawnDown: 30
+    ChanceSpawnMiddle: 30
+    ChanceSpawnUp: 40
+  - ID: 8
+    MinSpawnTime: 0.4
+    MaxSpawnTime: 1
+    ChanceSpawnDown: 30
+    ChanceSpawnMiddle: 40
+    ChanceSpawnUp: 30
+  - ID: 9
+    MinSpawnTime: 0.4
+    MaxSpawnTime: 1
+    ChanceSpawnDown: 30
+    ChanceSpawnMiddle: 40
+    ChanceSpawnUp: 30
+  - ID: 10
+    MinSpawnTime: 0.4
+    MaxSpawnTime: 1
+    ChanceSpawnDown: 30
+    ChanceSpawnMiddle: 40
+    ChanceSpawnUp: 30

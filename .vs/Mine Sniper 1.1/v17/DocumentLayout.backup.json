@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity Projects\\Mine Sniper 1.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64DE4084-9475-66B6-B62C-B2A2ADE1D970}|Assembly-CSharp.csproj|e:\\unity projects\\mine sniper 1.1\\assets\\yandexgame\\scriptsyg\\imageloadyg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DE4084-9475-66B6-B62C-B2A2ADE1D970}|Assembly-CSharp.csproj|solutionrelative:assets\\yandexgame\\scriptsyg\\imageloadyg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DE4084-9475-66B6-B62C-B2A2ADE1D970}|Assembly-CSharp.csproj|e:\\unity projects\\mine sniper 1.1\\assets\\yandexgame\\scriptsyg\\graphicsettingsyg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DE4084-9475-66B6-B62C-B2A2ADE1D970}|Assembly-CSharp.csproj|solutionrelative:assets\\yandexgame\\scriptsyg\\graphicsettingsyg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DE4084-9475-66B6-B62C-B2A2ADE1D970}|Assembly-CSharp.csproj|e:\\unity projects\\mine sniper 1.1\\assets\\yandexgame\\scriptsyg\\inside\\callinganevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DE4084-9475-66B6-B62C-B2A2ADE1D970}|Assembly-CSharp.csproj|solutionrelative:assets\\yandexgame\\scriptsyg\\inside\\callinganevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DE4084-9475-66B6-B62C-B2A2ADE1D970}|Assembly-CSharp.csproj|e:\\unity projects\\mine sniper 1.1\\assets\\yandexgame\\scriptsyg\\language\\languageyg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DE4084-9475-66B6-B62C-B2A2ADE1D970}|Assembly-CSharp.csproj|solutionrelative:assets\\yandexgame\\scriptsyg\\language\\languageyg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DE4084-9475-66B6-B62C-B2A2ADE1D970}|Assembly-CSharp.csproj|e:\\unity projects\\mine sniper 1.1\\assets\\yandexgame\\scriptsyg\\leaderboards\\lbplayerdatayg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DE4084-9475-66B6-B62C-B2A2ADE1D970}|Assembly-CSharp.csproj|solutionrelative:assets\\yandexgame\\scriptsyg\\leaderboards\\lbplayerdatayg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DE4084-9475-66B6-B62C-B2A2ADE1D970}|Assembly-CSharp.csproj|e:\\unity projects\\mine sniper 1.1\\assets\\yandexgame\\scriptsyg\\leaderboards\\leaderboardyg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DE4084-9475-66B6-B62C-B2A2ADE1D970}|Assembly-CSharp.csproj|solutionrelative:assets\\yandexgame\\scriptsyg\\leaderboards\\leaderboardyg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DE4084-9475-66B6-B62C-B2A2ADE1D970}|Assembly-CSharp.csproj|e:\\unity projects\\mine sniper 1.1\\assets\\yandexgame\\scriptsyg\\payments\\purchaseyg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DE4084-9475-66B6-B62C-B2A2ADE1D970}|Assembly-CSharp.csproj|solutionrelative:assets\\yandexgame\\scriptsyg\\payments\\purchaseyg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{708BF6A8-9637-53B5-24D3-69E4AAD0DB80}|Assembly-CSharp-Editor.csproj|e:\\unity projects\\mine sniper 1.1\\assets\\yandexgame\\scriptsyg\\language\\editor\\languageygeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{708BF6A8-9637-53B5-24D3-69E4AAD0DB80}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\yandexgame\\scriptsyg\\language\\editor\\languageygeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{708BF6A8-9637-53B5-24D3-69E4AAD0DB80}|Assembly-CSharp-Editor.csproj|e:\\unity projects\\mine sniper 1.1\\assets\\yandexgame\\scriptsyg\\language\\editor\\autolocalizationmassewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{708BF6A8-9637-53B5-24D3-69E4AAD0DB80}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\yandexgame\\scriptsyg\\language\\editor\\autolocalizationmassewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DE4084-9475-66B6-B62C-B2A2ADE1D970}|Assembly-CSharp.csproj|e:\\unity projects\\mine sniper 1.1\\assets\\yandexgame\\debuggingmode\\scripts\\debuggingmodeyg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DE4084-9475-66B6-B62C-B2A2ADE1D970}|Assembly-CSharp.csproj|solutionrelative:assets\\yandexgame\\debuggingmode\\scripts\\debuggingmodeyg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DE4084-9475-66B6-B62C-B2A2ADE1D970}|Assembly-CSharp.csproj|e:\\unity projects\\mine sniper 1.1\\assets\\_project\\_scripts\\_systems\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DE4084-9475-66B6-B62C-B2A2ADE1D970}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\_scripts\\_systems\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C7266C6-D51F-95A0-3D23-FF041002B4E8}|Zenject.csproj|E:\\Unity Projects\\Mine Sniper 1.1\\assets\\plugins\\zenject\\source\\install\\contexts\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C7266C6-D51F-95A0-3D23-FF041002B4E8}|Zenject.csproj|solutionrelative:assets\\plugins\\zenject\\source\\install\\contexts\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DE4084-9475-66B6-B62C-B2A2ADE1D970}|Assembly-CSharp.csproj|E:\\Unity Projects\\Mine Sniper 1.1\\assets\\_project\\_scripts\\game data\\stats\\gamedataso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DE4084-9475-66B6-B62C-B2A2ADE1D970}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\_scripts\\game data\\stats\\gamedataso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DE4084-9475-66B6-B62C-B2A2ADE1D970}|Assembly-CSharp.csproj|E:\\Unity Projects\\Mine Sniper 1.1\\assets\\_project\\_scripts\\_systems\\gamebootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DE4084-9475-66B6-B62C-B2A2ADE1D970}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\_scripts\\_systems\\gamebootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DE4084-9475-66B6-B62C-B2A2ADE1D970}|Assembly-CSharp.csproj|E:\\Unity Projects\\Mine Sniper 1.1\\assets\\_project\\_scripts\\_systems\\playerlevelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DE4084-9475-66B6-B62C-B2A2ADE1D970}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\_scripts\\_systems\\playerlevelmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DE4084-9475-66B6-B62C-B2A2ADE1D970}|Assembly-CSharp.csproj|E:\\Unity Projects\\Mine Sniper 1.1\\assets\\_project\\_scripts\\_systems\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DE4084-9475-66B6-B62C-B2A2ADE1D970}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\_scripts\\_systems\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DE4084-9475-66B6-B62C-B2A2ADE1D970}|Assembly-CSharp.csproj|E:\\Unity Projects\\Mine Sniper 1.1\\assets\\_project\\_scripts\\entities\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DE4084-9475-66B6-B62C-B2A2ADE1D970}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\_scripts\\entities\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64DE4084-9475-66B6-B62C-B2A2ADE1D970}|Assembly-CSharp.csproj|e:\\unity projects\\mine sniper 1.1\\assets\\_project\\_scripts\\entities\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64DE4084-9475-66B6-B62C-B2A2ADE1D970}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\_scripts\\entities\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 511,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GraphicSettingsYG.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Mine Sniper 1.1\\Assets\\YandexGame\\ScriptsYG\\GraphicSettingsYG.cs",
+              "RelativeDocumentMoniker": "Assets\\YandexGame\\ScriptsYG\\GraphicSettingsYG.cs",
+              "ToolTip": "E:\\Unity Projects\\Mine Sniper 1.1\\Assets\\YandexGame\\ScriptsYG\\GraphicSettingsYG.cs",
+              "RelativeToolTip": "Assets\\YandexGame\\ScriptsYG\\GraphicSettingsYG.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T11:14:22.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImageLoadYG.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Mine Sniper 1.1\\Assets\\YandexGame\\ScriptsYG\\ImageLoadYG.cs",
+              "RelativeDocumentMoniker": "Assets\\YandexGame\\ScriptsYG\\ImageLoadYG.cs",
+              "ToolTip": "E:\\Unity Projects\\Mine Sniper 1.1\\Assets\\YandexGame\\ScriptsYG\\ImageLoadYG.cs*",
+              "RelativeToolTip": "Assets\\YandexGame\\ScriptsYG\\ImageLoadYG.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T11:14:19.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CallingAnEvent.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Mine Sniper 1.1\\Assets\\YandexGame\\ScriptsYG\\Inside\\CallingAnEvent.cs",
+              "RelativeDocumentMoniker": "Assets\\YandexGame\\ScriptsYG\\Inside\\CallingAnEvent.cs",
+              "ToolTip": "E:\\Unity Projects\\Mine Sniper 1.1\\Assets\\YandexGame\\ScriptsYG\\Inside\\CallingAnEvent.cs",
+              "RelativeToolTip": "Assets\\YandexGame\\ScriptsYG\\Inside\\CallingAnEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T11:14:17.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LanguageYG.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Mine Sniper 1.1\\Assets\\YandexGame\\ScriptsYG\\Language\\LanguageYG.cs",
+              "RelativeDocumentMoniker": "Assets\\YandexGame\\ScriptsYG\\Language\\LanguageYG.cs",
+              "ToolTip": "E:\\Unity Projects\\Mine Sniper 1.1\\Assets\\YandexGame\\ScriptsYG\\Language\\LanguageYG.cs",
+              "RelativeToolTip": "Assets\\YandexGame\\ScriptsYG\\Language\\LanguageYG.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T11:14:14.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LBPlayerDataYG.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Mine Sniper 1.1\\Assets\\YandexGame\\ScriptsYG\\Leaderboards\\LBPlayerDataYG.cs",
+              "RelativeDocumentMoniker": "Assets\\YandexGame\\ScriptsYG\\Leaderboards\\LBPlayerDataYG.cs",
+              "ToolTip": "E:\\Unity Projects\\Mine Sniper 1.1\\Assets\\YandexGame\\ScriptsYG\\Leaderboards\\LBPlayerDataYG.cs",
+              "RelativeToolTip": "Assets\\YandexGame\\ScriptsYG\\Leaderboards\\LBPlayerDataYG.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T11:14:12.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LeaderboardYG.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Mine Sniper 1.1\\Assets\\YandexGame\\ScriptsYG\\Leaderboards\\LeaderboardYG.cs",
+              "RelativeDocumentMoniker": "Assets\\YandexGame\\ScriptsYG\\Leaderboards\\LeaderboardYG.cs",
+              "ToolTip": "E:\\Unity Projects\\Mine Sniper 1.1\\Assets\\YandexGame\\ScriptsYG\\Leaderboards\\LeaderboardYG.cs",
+              "RelativeToolTip": "Assets\\YandexGame\\ScriptsYG\\Leaderboards\\LeaderboardYG.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T11:14:11.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PurchaseYG.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Mine Sniper 1.1\\Assets\\YandexGame\\ScriptsYG\\Payments\\PurchaseYG.cs",
+              "RelativeDocumentMoniker": "Assets\\YandexGame\\ScriptsYG\\Payments\\PurchaseYG.cs",
+              "ToolTip": "E:\\Unity Projects\\Mine Sniper 1.1\\Assets\\YandexGame\\ScriptsYG\\Payments\\PurchaseYG.cs",
+              "RelativeToolTip": "Assets\\YandexGame\\ScriptsYG\\Payments\\PurchaseYG.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T11:14:10.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LanguageYGEditor.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Mine Sniper 1.1\\Assets\\YandexGame\\ScriptsYG\\Language\\Editor\\LanguageYGEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\YandexGame\\ScriptsYG\\Language\\Editor\\LanguageYGEditor.cs",
+              "ToolTip": "E:\\Unity Projects\\Mine Sniper 1.1\\Assets\\YandexGame\\ScriptsYG\\Language\\Editor\\LanguageYGEditor.cs",
+              "RelativeToolTip": "Assets\\YandexGame\\ScriptsYG\\Language\\Editor\\LanguageYGEditor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T11:14:09.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AutoLocalizationMasseWindow.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Mine Sniper 1.1\\Assets\\YandexGame\\ScriptsYG\\Language\\Editor\\AutoLocalizationMasseWindow.cs",
+              "RelativeDocumentMoniker": "Assets\\YandexGame\\ScriptsYG\\Language\\Editor\\AutoLocalizationMasseWindow.cs",
+              "ToolTip": "E:\\Unity Projects\\Mine Sniper 1.1\\Assets\\YandexGame\\ScriptsYG\\Language\\Editor\\AutoLocalizationMasseWindow.cs",
+              "RelativeToolTip": "Assets\\YandexGame\\ScriptsYG\\Language\\Editor\\AutoLocalizationMasseWindow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T11:14:03.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DebuggingModeYG.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Mine Sniper 1.1\\Assets\\YandexGame\\DebuggingMode\\Scripts\\DebuggingModeYG.cs",
+              "RelativeDocumentMoniker": "Assets\\YandexGame\\DebuggingMode\\Scripts\\DebuggingModeYG.cs",
+              "ToolTip": "E:\\Unity Projects\\Mine Sniper 1.1\\Assets\\YandexGame\\DebuggingMode\\Scripts\\DebuggingModeYG.cs",
+              "RelativeToolTip": "Assets\\YandexGame\\DebuggingMode\\Scripts\\DebuggingModeYG.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T11:13:27.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Mine Sniper 1.1\\Assets\\_Project\\_Scripts\\_SYSTEMS\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\_Scripts\\_SYSTEMS\\AudioManager.cs",
+              "ToolTip": "E:\\Unity Projects\\Mine Sniper 1.1\\Assets\\_Project\\_Scripts\\_SYSTEMS\\AudioManager.cs*",
+              "RelativeToolTip": "Assets\\_Project\\_Scripts\\_SYSTEMS\\AudioManager.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T06:28:05.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Context.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Mine Sniper 1.1\\Assets\\Plugins\\Zenject\\Source\\Install\\Contexts\\Context.cs",
+              "RelativeDocumentMoniker": "Assets\\Plugins\\Zenject\\Source\\Install\\Contexts\\Context.cs",
+              "ToolTip": "E:\\Unity Projects\\Mine Sniper 1.1\\Assets\\Plugins\\Zenject\\Source\\Install\\Contexts\\Context.cs",
+              "RelativeToolTip": "Assets\\Plugins\\Zenject\\Source\\Install\\Contexts\\Context.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAowHAAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T06:27:58.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GameBootstrap.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Mine Sniper 1.1\\Assets\\_Project\\_Scripts\\_SYSTEMS\\GameBootstrap.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\_Scripts\\_SYSTEMS\\GameBootstrap.cs",
+              "ToolTip": "E:\\Unity Projects\\Mine Sniper 1.1\\Assets\\_Project\\_Scripts\\_SYSTEMS\\GameBootstrap.cs",
+              "RelativeToolTip": "Assets\\_Project\\_Scripts\\_SYSTEMS\\GameBootstrap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T06:01:46.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameDataSO.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Mine Sniper 1.1\\Assets\\_Project\\_Scripts\\GAME DATA\\Stats\\GameDataSO.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\_Scripts\\GAME DATA\\Stats\\GameDataSO.cs",
+              "ToolTip": "E:\\Unity Projects\\Mine Sniper 1.1\\Assets\\_Project\\_Scripts\\GAME DATA\\Stats\\GameDataSO.cs",
+              "RelativeToolTip": "Assets\\_Project\\_Scripts\\GAME DATA\\Stats\\GameDataSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T05:49:57.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlayerLevelManager.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Mine Sniper 1.1\\Assets\\_Project\\_Scripts\\_SYSTEMS\\PlayerLevelManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\_Scripts\\_SYSTEMS\\PlayerLevelManager.cs",
+              "ToolTip": "E:\\Unity Projects\\Mine Sniper 1.1\\Assets\\_Project\\_Scripts\\_SYSTEMS\\PlayerLevelManager.cs",
+              "RelativeToolTip": "Assets\\_Project\\_Scripts\\_SYSTEMS\\PlayerLevelManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T05:40:28.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Mine Sniper 1.1\\Assets\\_Project\\_Scripts\\Entities\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\_Scripts\\Entities\\EnemySpawner.cs",
+              "ToolTip": "E:\\Unity Projects\\Mine Sniper 1.1\\Assets\\_Project\\_Scripts\\Entities\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\_Project\\_Scripts\\Entities\\EnemySpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T05:39:19.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EnemyManager.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Mine Sniper 1.1\\Assets\\_Project\\_Scripts\\_SYSTEMS\\EnemyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\_Scripts\\_SYSTEMS\\EnemyManager.cs",
+              "ToolTip": "E:\\Unity Projects\\Mine Sniper 1.1\\Assets\\_Project\\_Scripts\\_SYSTEMS\\EnemyManager.cs",
+              "RelativeToolTip": "Assets\\_Project\\_Scripts\\_SYSTEMS\\EnemyManager.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwCsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T05:39:01.621Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 175,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Mine Sniper 1.1\\Assets\\_Project\\_Scripts\\Entities\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\_Scripts\\Entities\\Enemy.cs",
+              "ToolTip": "E:\\Unity Projects\\Mine Sniper 1.1\\Assets\\_Project\\_Scripts\\Entities\\Enemy.cs",
+              "RelativeToolTip": "Assets\\_Project\\_Scripts\\Entities\\Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T05:39:20.573Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de11fa4030d3fb947a57827b33d84522, type: 3}
+  m_Name: MainAudioDataList
+  m_EditorClassIdentifier: 
+  audio:
+  - soundEffect: 0
+    audioClipRef:
+      m_AssetGUID: f05b918e57277e241a85c3ba085c0b5b
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - soundEffect: 1
+    audioClipRef:
+      m_AssetGUID: d59052c037de4234095c66e6bbdb43fc
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - soundEffect: 2
+    audioClipRef:
+      m_AssetGUID: f9c3583d1acd3b44b903b13e176ae141
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - soundEffect: 3
+    audioClipRef:
+      m_AssetGUID: d1ab75bacce91e04db2696b2e556a324
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - soundEffect: 10
+    audioClipRef:
+      m_AssetGUID: a21721bba98883a4cbf55734c40f332f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - soundEffect: 11
+    audioClipRef:
+      m_AssetGUID: e0e47c522d152a146bc31299b10509d0
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - soundEffect: 12
+    audioClipRef:
+      m_AssetGUID: 0eba80a7dc3319641be3978bccea5853
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - soundEffect: 13
+    audioClipRef:
+      m_AssetGUID: e8ea05d7d0dda03468fbdb1baa386c50
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - soundEffect: 15
+    audioClipRef:
+      m_AssetGUID: 1000b893fb560be45a394bd33b04bdbb
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - soundEffect: 9
+    audioClipRef:
+      m_AssetGUID: 1728e7c977d92ef4383a73e5e779a628
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - soundEffect: 17
+    audioClipRef:
+      m_AssetGUID: 7b505cf499a0eb549ad5649462cf6625
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - soundEffect: 18
+    audioClipRef:
+      m_AssetGUID: 4b567bdec8ca8fa4abf0bf27bd77156f
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  - soundEffect: 14
+    audioClipRef:
+      m_AssetGUID: 7404037c1caede046817388e09906def
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0

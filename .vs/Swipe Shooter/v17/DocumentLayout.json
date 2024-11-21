@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity Projects\\Swipe Shooter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC2469D-0AD8-9A4D-5FE5-B326E1510D5D}|Assembly-CSharp.csproj|e:\\unity projects\\swipe shooter\\assets\\_project\\_scripts\\shootingsystems\\shotvisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC2469D-0AD8-9A4D-5FE5-B326E1510D5D}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\_scripts\\shootingsystems\\shotvisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC2469D-0AD8-9A4D-5FE5-B326E1510D5D}|Assembly-CSharp.csproj|e:\\unity projects\\swipe shooter\\assets\\_project\\_scripts\\shootingsystems\\trailpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC2469D-0AD8-9A4D-5FE5-B326E1510D5D}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\_scripts\\shootingsystems\\trailpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC2469D-0AD8-9A4D-5FE5-B326E1510D5D}|Assembly-CSharp.csproj|e:\\unity projects\\swipe shooter\\assets\\_project\\_scripts\\shootingsystems\\shotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC2469D-0AD8-9A4D-5FE5-B326E1510D5D}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\_scripts\\shootingsystems\\shotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC2469D-0AD8-9A4D-5FE5-B326E1510D5D}|Assembly-CSharp.csproj|E:\\Unity Projects\\Swipe Shooter\\assets\\_project\\_scripts\\entitysystems\\property\\destructibleproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC2469D-0AD8-9A4D-5FE5-B326E1510D5D}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\_scripts\\entitysystems\\property\\destructibleproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC2469D-0AD8-9A4D-5FE5-B326E1510D5D}|Assembly-CSharp.csproj|E:\\Unity Projects\\Swipe Shooter\\assets\\_project\\_scripts\\entitysystems\\property\\indestructibleproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC2469D-0AD8-9A4D-5FE5-B326E1510D5D}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\_scripts\\entitysystems\\property\\indestructibleproperty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC2469D-0AD8-9A4D-5FE5-B326E1510D5D}|Assembly-CSharp.csproj|E:\\Unity Projects\\Swipe Shooter\\assets\\_project\\_scripts\\entitysystems\\property\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC2469D-0AD8-9A4D-5FE5-B326E1510D5D}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\_scripts\\entitysystems\\property\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC2469D-0AD8-9A4D-5FE5-B326E1510D5D}|Assembly-CSharp.csproj|E:\\Unity Projects\\Swipe Shooter\\assets\\_project\\_scripts\\entitysystems\\entityvisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC2469D-0AD8-9A4D-5FE5-B326E1510D5D}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\_scripts\\entitysystems\\entityvisual.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCC2469D-0AD8-9A4D-5FE5-B326E1510D5D}|Assembly-CSharp.csproj|E:\\Unity Projects\\Swipe Shooter\\assets\\_project\\_scripts\\entitysystems\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCC2469D-0AD8-9A4D-5FE5-B326E1510D5D}|Assembly-CSharp.csproj|solutionrelative:assets\\_project\\_scripts\\entitysystems\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 261,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrailPool.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Swipe Shooter\\Assets\\_Project\\_Scripts\\ShootingSystems\\TrailPool.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\_Scripts\\ShootingSystems\\TrailPool.cs",
+              "ToolTip": "E:\\Unity Projects\\Swipe Shooter\\Assets\\_Project\\_Scripts\\ShootingSystems\\TrailPool.cs",
+              "RelativeToolTip": "Assets\\_Project\\_Scripts\\ShootingSystems\\TrailPool.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T12:35:59.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IndestructibleProperty.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Swipe Shooter\\Assets\\_Project\\_Scripts\\EntitySystems\\Property\\IndestructibleProperty.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\_Scripts\\EntitySystems\\Property\\IndestructibleProperty.cs",
+              "ToolTip": "E:\\Unity Projects\\Swipe Shooter\\Assets\\_Project\\_Scripts\\EntitySystems\\Property\\IndestructibleProperty.cs",
+              "RelativeToolTip": "Assets\\_Project\\_Scripts\\EntitySystems\\Property\\IndestructibleProperty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T09:27:34.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Property.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Swipe Shooter\\Assets\\_Project\\_Scripts\\EntitySystems\\Property\\Property.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\_Scripts\\EntitySystems\\Property\\Property.cs",
+              "ToolTip": "E:\\Unity Projects\\Swipe Shooter\\Assets\\_Project\\_Scripts\\EntitySystems\\Property\\Property.cs",
+              "RelativeToolTip": "Assets\\_Project\\_Scripts\\EntitySystems\\Property\\Property.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T09:11:16.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EntityVisual.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Swipe Shooter\\Assets\\_Project\\_Scripts\\EntitySystems\\EntityVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\_Scripts\\EntitySystems\\EntityVisual.cs",
+              "ToolTip": "E:\\Unity Projects\\Swipe Shooter\\Assets\\_Project\\_Scripts\\EntitySystems\\EntityVisual.cs",
+              "RelativeToolTip": "Assets\\_Project\\_Scripts\\EntitySystems\\EntityVisual.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T11:40:12.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DestructibleProperty.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Swipe Shooter\\Assets\\_Project\\_Scripts\\EntitySystems\\Property\\DestructibleProperty.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\_Scripts\\EntitySystems\\Property\\DestructibleProperty.cs",
+              "ToolTip": "E:\\Unity Projects\\Swipe Shooter\\Assets\\_Project\\_Scripts\\EntitySystems\\Property\\DestructibleProperty.cs",
+              "RelativeToolTip": "Assets\\_Project\\_Scripts\\EntitySystems\\Property\\DestructibleProperty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T09:50:59.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShotController.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Swipe Shooter\\Assets\\_Project\\_Scripts\\ShootingSystems\\ShotController.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\_Scripts\\ShootingSystems\\ShotController.cs",
+              "ToolTip": "E:\\Unity Projects\\Swipe Shooter\\Assets\\_Project\\_Scripts\\ShootingSystems\\ShotController.cs",
+              "RelativeToolTip": "Assets\\_Project\\_Scripts\\ShootingSystems\\ShotController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T10:22:22.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Swipe Shooter\\Assets\\_Project\\_Scripts\\EntitySystems\\Entity.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\_Scripts\\EntitySystems\\Entity.cs",
+              "ToolTip": "E:\\Unity Projects\\Swipe Shooter\\Assets\\_Project\\_Scripts\\EntitySystems\\Entity.cs",
+              "RelativeToolTip": "Assets\\_Project\\_Scripts\\EntitySystems\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T08:13:48.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 263,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShotVisual.cs",
+              "DocumentMoniker": "E:\\Unity Projects\\Swipe Shooter\\Assets\\_Project\\_Scripts\\ShootingSystems\\ShotVisual.cs",
+              "RelativeDocumentMoniker": "Assets\\_Project\\_Scripts\\ShootingSystems\\ShotVisual.cs",
+              "ToolTip": "E:\\Unity Projects\\Swipe Shooter\\Assets\\_Project\\_Scripts\\ShootingSystems\\ShotVisual.cs",
+              "RelativeToolTip": "Assets\\_Project\\_Scripts\\ShootingSystems\\ShotVisual.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T11:20:31.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
